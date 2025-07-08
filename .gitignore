@@ -1,2 +1,17 @@
-/venv/
-./.vscode/
+# operational
+results
+**.sql
+**.pyc
+__pycache__/
+.cache
+
+# build related
+dist
+build
+reports
+htmlcov
+*.egg*
+docs/_build
+.coverage
+coverage.xml
+.tox
