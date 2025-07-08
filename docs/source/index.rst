@@ -6,6 +6,6 @@ Welcome to Documentation's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   calculator
-   fibonnaci
-   prime_numbers
+   src.calculator
+   src.fibonnaci
+   src.prime_numbers
