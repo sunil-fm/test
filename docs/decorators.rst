@@ -12,11 +12,6 @@ decorators.logging\_service module
    :undoc-members:
    :show-inheritance:
 
-.. automodule:: decorators.custom
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
 
 Module contents
 ---------------
